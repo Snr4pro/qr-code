@@ -53,6 +53,11 @@ body {
     text-align: center;
 }
 
+@media (max-width: 415px) {
+    #code {
+        width: 100%
+    }
+}
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
